@@ -2,7 +2,7 @@
 '''
 greeter.py
 
-Sends greetings to one and all. How cool is that...
+Sends greetings to one and all. How cool is that... - ha ha!
 '''
 import sys
 
