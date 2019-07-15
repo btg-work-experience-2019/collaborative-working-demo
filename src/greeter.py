@@ -2,7 +2,7 @@
 '''
 greeter.py
 
-Sends greetings to one and all. I've messed you up - ha ha!
+Sends greetings to one and all. How cool is that... - ha ha!
 '''
 import sys
 
@@ -12,7 +12,7 @@ def greet(name):
 
 def complain():
     print('Hey - you have to tell me your name!')
-
+    
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
